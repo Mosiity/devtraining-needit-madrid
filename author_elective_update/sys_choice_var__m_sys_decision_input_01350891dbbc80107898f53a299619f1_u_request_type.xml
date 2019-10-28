@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_58872_needit_needit_task" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="u_request_type" table="var__m_sys_decision_input_01350891dbbc80107898f53a299619f1" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>state</element>
+            <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Open</label>
+            <label>Facilities</label>
             <language>en</language>
-            <name>x_58872_needit_needit_task</name>
-            <sequence>0</sequence>
+            <name>var__m_sys_decision_input_01350891dbbc80107898f53a299619f1</name>
+            <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-25 17:17:47</sys_created_on>
+            <sys_created_on>2019-10-28 15:22:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9b330d94dbb800107898f53a2996192b</sys_id>
+            <sys_id>5f85c891dbbc80107898f53a299619bd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-25 17:17:47</sys_updated_on>
-            <value>1</value>
+            <sys_updated_on>2019-10-28 15:22:19</sys_updated_on>
+            <value>facilities</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>state</element>
+            <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Work in Progress</label>
+            <label>Human Resources</label>
             <language>en</language>
-            <name>x_58872_needit_needit_task</name>
-            <sequence>1</sequence>
+            <name>var__m_sys_decision_input_01350891dbbc80107898f53a299619f1</name>
+            <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-25 17:17:47</sys_created_on>
+            <sys_created_on>2019-10-28 15:22:29</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d7330d94dbb800107898f53a2996192d</sys_id>
+            <sys_id>da958891dbbc80107898f53a299619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-25 17:17:47</sys_updated_on>
-            <value>2</value>
+            <sys_updated_on>2019-10-28 15:22:29</sys_updated_on>
+            <value>hr</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>state</element>
+            <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Closed Complete</label>
+            <label>Legal</label>
             <language>en</language>
-            <name>x_58872_needit_needit_task</name>
-            <sequence>2</sequence>
+            <name>var__m_sys_decision_input_01350891dbbc80107898f53a299619f1</name>
+            <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-25 17:17:47</sys_created_on>
+            <sys_created_on>2019-10-28 15:22:05</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>db330d94dbb800107898f53a29961979</sys_id>
+            <sys_id>76750c91dbbc80107898f53a2996197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-25 17:17:47</sys_updated_on>
-            <value>3</value>
+            <sys_updated_on>2019-10-28 15:22:05</sys_updated_on>
+            <value>legal</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>state</element>
-            <name>x_58872_needit_needit_task</name>
+            <element>u_request_type</element>
+            <name>var__m_sys_decision_input_01350891dbbc80107898f53a299619f1</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-25 17:17:47</sys_created_on>
-            <sys_id>d3330d94dbb800107898f53a2996192c</sys_id>
+            <sys_created_on>2019-10-28 15:22:05</sys_created_on>
+            <sys_id>e5858891dbbc80107898f53a29961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>state</sys_name>
+            <sys_name>u_request_type</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_choice_x_58872_needit_needit_task_state</sys_update_name>
+            <sys_update_name>sys_choice_var__m_sys_decision_input_01350891dbbc80107898f53a299619f1_u_request_type</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-25 17:17:47</sys_updated_on>
+            <sys_updated_on>2019-10-28 15:22:05</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>
