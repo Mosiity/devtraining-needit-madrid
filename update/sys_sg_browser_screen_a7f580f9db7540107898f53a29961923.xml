@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="On-call Icon">ebf5c4b9db7540107898f53a29961999</icon>
+        <name>On-call</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-18 21:44:27</sys_created_on>
+        <sys_id>a7f580f9db7540107898f53a29961923</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>On-call</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_a7f580f9db7540107898f53a29961923</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-18 22:05:57</sys_updated_on>
+        <url>https://dev74686.service-now.com/nav_to.do?uri=/$oc_groups.do</url>
+    </sys_sg_browser_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=a7f580f9db7540107898f53a29961923"/>
+</record_update>

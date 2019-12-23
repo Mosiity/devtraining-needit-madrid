@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_calendar_screen">
+    <sys_sg_calendar_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Testing On-call in Mobile</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="On-Call Icon">759e774ddbe100107898f53a2996195a</icon>
+        <name>On-Call</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <sys_class_name>sys_sg_calendar_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 21:39:31</sys_created_on>
+        <sys_id>1a9e3b4ddbe100107898f53a29961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>On-Call</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_calendar_screen_1a9e3b4ddbe100107898f53a29961944</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 21:39:31</sys_updated_on>
+    </sys_sg_calendar_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1a9e3b4ddbe100107898f53a29961944"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a3708963db847b400ae3ac44d4961916</instance_id>
+        <instance_name>dev74686</instance_name>
+        <name>sys_sg_calendar_screen_1a9e3b4ddbe100107898f53a29961944</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_calendar_screen"><sys_sg_calendar_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item/><description>Testing On-call in Mobile</description><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><icon display_value="On-Call Icon">759e774ddbe100107898f53a2996195a</icon><name>On-Call</name><order/><parent/><parent_table/><roles_override/><sys_class_name>sys_sg_calendar_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 21:39:31</sys_created_on><sys_id>1a9e3b4ddbe100107898f53a29961944</sys_id><sys_mod_count>0</sys_mod_count><sys_name>On-Call</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_calendar_screen_1a9e3b4ddbe100107898f53a29961944</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 21:39:31</sys_updated_on></sys_sg_calendar_screen><sys_translated_text action="delete_multiple" query="documentkey=1a9e3b4ddbe100107898f53a29961944"/></record_update>]]></payload>
+        <payload_hash>-1661563464</payload_hash>
+        <record_name>On-Call</record_name>
+        <reverted_from/>
+        <source>f2b46998dbf800107898f53a2996191c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 21:39:31</sys_created_on>
+        <sys_id>87be334ddbe100107898f53a299619b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ed2da97560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 21:39:31</sys_updated_on>
+        <type>Calendar screen</type>
+        <update_guid>cfbe334d30e10010f94792ed39ba5cb3</update_guid>
+        <update_guid_history>cfbe334d30e10010f94792ed39ba5cb3:-1661563464</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-18 21:47:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_calendar_screen">sys_sg_calendar_screen</sys_db_object>
+        <sys_id>2c91d0d7ad9548f3908f0ece9359ae01</sys_id>
+        <sys_metadata>1a9e3b4ddbe100107898f53a29961944</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>On-Call</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_calendar_screen_1a9e3b4ddbe100107898f53a29961944</sys_update_name>
+        <sys_update_version display_value="sys_sg_calendar_screen_1a9e3b4ddbe100107898f53a29961944">87be334ddbe100107898f53a299619b4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-18 21:47:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

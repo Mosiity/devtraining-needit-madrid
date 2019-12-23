@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">9c47ee4cdb0100107898f53a299619f7</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">c047ee4cdb0100107898f53a299619f5</icon>
+        <label>Change Management Launcher Button Instance</label>
+        <location>top</location>
+        <name>Change Management Launcher Button Instance</name>
+        <order/>
+        <parent>8847ee4cdb0100107898f53a299619f2</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 16:11:59</sys_created_on>
+        <sys_id>104766ccdb0100107898f53a299619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change Management Launcher Button Instance</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_104766ccdb0100107898f53a299619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 16:11:59</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=104766ccdb0100107898f53a299619d9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a3708963db847b400ae3ac44d4961916</instance_id>
+        <instance_name>dev74686</instance_name>
+        <name>sys_sg_button_instance_104766ccdb0100107898f53a299619d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">9c47ee4cdb0100107898f53a299619f7</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">c047ee4cdb0100107898f53a299619f5</icon><label>Change Management Launcher Button Instance</label><location>top</location><name>Change Management Launcher Button Instance</name><order/><parent>8847ee4cdb0100107898f53a299619f2</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-06 16:11:59</sys_created_on><sys_id>104766ccdb0100107898f53a299619d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Change Management Launcher Button Instance</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_button_instance_104766ccdb0100107898f53a299619d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-06 16:11:59</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=104766ccdb0100107898f53a299619d9"/></record_update>]]></payload>
+        <payload_hash>216305415</payload_hash>
+        <record_name>Change Management Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>f2b46998dbf800107898f53a2996191c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 16:11:59</sys_created_on>
+        <sys_id>104766ccdb0100107898f53a299619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e417cab0a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 16:11:59</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>584766ccc50100102571ea271ac010db</update_guid>
+        <update_guid_history>584766ccc50100102571ea271ac010db:216305415</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 16:19:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>64d127a228e74b4481e2a7cd87dcda90</sys_id>
+        <sys_metadata>104766ccdb0100107898f53a299619d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change Management Launcher Button Instance</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_104766ccdb0100107898f53a299619d9</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_104766ccdb0100107898f53a299619d9">104766ccdb0100107898f53a299619dc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 16:19:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
